@@ -1,3 +1,12 @@
-# My Awesome Book
+Directed Fieldwork Journal
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Ben M. Riesenberg, March-May 2018
+
+Site supervisor: 
+
+Moriah Caruso, Preservation Librarian
+
+University of Washington Libraries Preservation Services
+
+
+

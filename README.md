@@ -1,12 +1,12 @@
-Directed Fieldwork Journal
+# _Directed Fieldwork Journal_
 
-Ben M. Riesenberg, March-May 2018
+## Ben M. Riesenberg, March-May 2018
 
-Site supervisor: 
+## Site supervisor:
 
-Moriah Caruso, Preservation Librarian
+## Moriah Caruso, Preservation Librarian
 
-University of Washington Libraries Preservation Services
+## [University of Washington Libraries Preservation Services](http://www.lib.washington.edu/preservation)
 
 
 

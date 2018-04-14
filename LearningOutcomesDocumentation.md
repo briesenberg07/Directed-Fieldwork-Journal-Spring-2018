@@ -1,4 +1,4 @@
-# **Learning Outcomes**
+# **Learning Outcomes Documentation**
 
 ## **KEY:**
 

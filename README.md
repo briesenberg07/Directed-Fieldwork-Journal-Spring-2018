@@ -7,5 +7,5 @@
 # Table of Contents
 * [Learning Outcomes Documentation](LearningOutcomesDocumentation.md)
 * [Materials Selection](MaterialsSelection.md)
-* [Digitization](Digitization.md)
+* [Flatbed Scanning](FlatbedScanning.md)
 

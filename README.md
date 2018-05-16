@@ -7,5 +7,6 @@
 # Table of Contents
 * [Learning Outcomes Documentation](LearningOutcomesDocumentation.md)
 * [Materials Selection](MaterialsSelection.md)
+* [MARC records in the HathiTrust](MARCAndHathi.md)
 * [Flatbed Scanning](FlatbedScanning.md)
 

@@ -1,5 +1,5 @@
 # MARC Data and the HathiTrust  
-Some of the most interesting items identified during the [materials selection](MaterialsSelection.md) process were a number of issues of The New Era from YEAR to YEAR, collecting the writings of prisoners at the US penitentiary in Leavenworth, Kansas.  
+Some of the most interesting items identified during the [materials selection](MaterialsSelection.md) process were a number of issues of The New Era from 1935 to 1938, collecting the writings of prisoners at the US penitentiary in Leavenworth, Kansas.  
 However, the publisher information for this item left some doubt as to whether it was in fact a government publication:  
   
 > Published by permission of the Bureau of Prisons, Dept. of Justice.  

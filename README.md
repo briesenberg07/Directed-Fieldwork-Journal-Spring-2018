@@ -9,4 +9,4 @@
 * [Materials Selection](MaterialsSelection.md)
 * [MARC records in the HathiTrust](MARCAndHathi.md)
 * [Digital Capture](DigitalCapture.md)
-
+* [Preparing Files for HathiTrust Ingest](HathiTrustFilePrep.md)

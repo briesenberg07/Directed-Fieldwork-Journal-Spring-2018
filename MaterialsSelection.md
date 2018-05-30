@@ -10,4 +10,5 @@ While the standard searching workflow in preservation makes use of a paper form 
 
 In addition to looking at the materials on my own, during the first three weeks of the quarter my site supervisor and I met twice with U.S. Documents Librarian Cass Hartnett. These meetings were extremely valuable and helpful in assessing the potential value of items to current and future users, introducing me to characteristics to look for in evaluating them, and giving a sense of the collecting scope for government publications at the University of Washington. 
 
-__*Note:__ _This resource is only available to viewers with a University of Washington NetID._ 
+__*Note:__ _This resource is only available to viewers with a University of Washington NetID._  
+#### Next: [MARC data and the HathiTrust](MARCAndHathi.md)

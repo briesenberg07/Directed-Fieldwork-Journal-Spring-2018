@@ -44,3 +44,4 @@
 
 **Finalized submission information packages should meet criteria specified by the Hathi Trust and UW Libraries’ preservation repository service.**
 
+#### Next: [Materials Selection](MaterialsSelection.md)

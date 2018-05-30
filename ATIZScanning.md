@@ -1,2 +1,0 @@
-# ATIZ Scanning
-None of the government documents we selected for digitization as part of this project were bound, and so most were [captured using a flatbed scanner](FlatbedScanning.md). However, as I had hoped, a small number were put together in such a way that it made sense to capture them using the Preservation Services unit's Atiz BookDrive Mark II book scanner.  

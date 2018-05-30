@@ -16,3 +16,4 @@ The item had been cataloged using retrospective conversion of an existing MARC r
 Going a step further, we searched available records for other items from the same publisher to determine if a case could be made for changing our record. In fact, many records for items published by Federal Prison Industries, Inc. *did* include the 008:28 designation. Importantly, such records had been produced at well-known institutions, and many included a designation that they had been produced through the [Program for Cooperative Cataloging](https://www.loc.gov/aba/pcc/).  
 ## Ensuring user access  
 Based on this, we added the required designation to the item record, and expect that once it is digitized and uploaded to the HT it will be fully available!
+#### Next: [Digital Capture](DigitalCapture.md)

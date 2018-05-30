@@ -7,6 +7,6 @@
 ## Table of Contents
 * [Learning Outcomes Documentation](LearningOutcomesDocumentation.md)
 * [Materials Selection](MaterialsSelection.md)
-* [MARC records in the HathiTrust](MARCAndHathi.md)
+* [MARC Data and the HathiTrust](MARCAndHathi.md)
 * [Digital Capture](DigitalCapture.md)
 * [Preparing Files for HathiTrust Ingest](HathiTrustFilePrep.md)

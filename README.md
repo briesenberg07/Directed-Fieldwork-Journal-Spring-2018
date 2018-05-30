@@ -10,3 +10,5 @@
 * [MARC Data and the HathiTrust](MARCAndHathi.md)
 * [Digital Capture](DigitalCapture.md)
 * [Preparing Files for HathiTrust Ingest](HathiTrustFilePrep.md)
+  
+#### Next: [Learning Outcomes Documentation](LearningOutcomesDocumentation.md)

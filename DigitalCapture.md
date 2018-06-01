@@ -1,4 +1,3 @@
-_Please note that this section is under construction_
 # Digital Capture  
 Once discussions with my DFW supervisor and the U.S. Documents Librarian had resulted in a significant number of documents, I began work on the digitization of items, which actually consisted of a number of discrete subtasks. 
 ## Collation  
@@ -9,7 +8,7 @@ All images for this project were captured in full-color at 400 DPI. In an effort
 ## Flatbed Scanning
 A large number of the documents selected for digitization were able to be captured using a flatbed scanner available in the Preservation Services Department which had not yet been used extensively for this purpose.  
 Many of the government documents selected for digitization as part of this project were unbound, stapled pages. Following removal of staples--which were rusty and posed a preservation concern--these documents lent themselves to the use of a flatbed scanner. It allowed for the capture of images which conformed to FADGI requirements and were all situated identically within the image frame, facilitating simple batch-cropping operations.
-## IrfanView  
+### IrfanView  
 For images acquired using the flatbed scanner, the non-commercial freeware [IrfanView graphic viewer](https://www.irfanview.com/) proved an easy-to-use tool for batch-cropping and rotating.  
 As a part of my fieldwork, I created a  **[manual](https://docs.google.com/document/d/1cGxYIVi6WcWNqO4dC5fZPn6Umc1MLZbF_RT7pRfy17g/edit?usp=sharing)** describing how to use this tool to perform batch cropping and rotating of captured files. This manual can be provided to student workers and others performing post-processing of image files captured using the flatbed scanner.
 ## ATIZ Scanning

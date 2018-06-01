@@ -6,9 +6,14 @@ The standard workflow for these materials when they enter Preservation Services 
 
 Many of the materials set aside as potential candidates for digitization had already gone through this process, but a significant backlog had not. Because of this I was able to review pre-existing searching work and undergo a refresher course in searching using ExLibris Alma, the back-end ILS in use at UW, OCLC WorldCat, the Hathi Trust, and occasionally additional databases or platforms available via the UW Libraries website. 
 
-While the standard searching workflow in preservation makes use of a paper form to track search results, it was helpful to aggregate this information, along with my comments on items, in a [spreadsheet*](https://drive.google.com/open?id=1Ko23klLYZBxVG8YzPaX33mD2GGJP4uCm62bc3HNvxUQ). This allowed me to share items queued for digitization and also share my progress with other project-related tasks, such as collating items in preparation for digital capture.
+While the standard searching workflow in preservation makes use of a paper form to track search results, it was helpful to aggregate this information, along with my comments on items, in a **[spreadsheet*](https://drive.google.com/open?id=1Ko23klLYZBxVG8YzPaX33mD2GGJP4uCm62bc3HNvxUQ)**. This allowed me to share items queued for digitization and also share my progress with other project-related tasks, such as collating items in preparation for digital capture.
 
 In addition to looking at the materials on my own, during the first three weeks of the quarter my site supervisor and I met twice with U.S. Documents Librarian Cass Hartnett. These meetings were extremely valuable and helpful in assessing the potential value of items to current and future users, introducing me to characteristics to look for in evaluating them, and giving a sense of the collecting scope for government publications at the University of Washington. 
+
+There many methods for preserving materials which are less expensive than upload to  the HathiTrust trusted digital repository--for example, simply housing brittle documents in a box or other protective cover. Because of this, candidates for upload as a part of this project needed to meet a number of criteria _in addition to_ the presence of physical preservation concerns as mentioned above:
+- Available in the physical collections of only a limited number of institutions
+- Not already available in the HathiTrust or other searched databases/digital collections
+- Holds potential interest to scholars and/or other users either now or in the future
 
 __*Note:__ _This resource is only available to viewers with a University of Washington NetID._  
 #### Next: [MARC Data and the HathiTrust](MARCAndHathi.md)
